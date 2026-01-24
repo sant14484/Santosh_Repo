@@ -1,5 +1,5 @@
-Santosh Kumar Pandey -Senior Director – Cloud Engineering & AI
-
+# Santosh Kumar Pandey  
+## Senior Director – Cloud Engineering, SRE & AI Platforms
 I lead and scale enterprise Cloud Engineering, Agentic AI, Product Reliability Engineering, SRE, and SIOps platforms focused on reliability, cost efficiency, and AI-driven operations.
 
 ---
